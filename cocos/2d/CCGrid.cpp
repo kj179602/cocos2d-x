@@ -38,6 +38,10 @@ THE SOFTWARE.
 
 NS_CC_BEGIN
 // implementation of GridBase
+//
+
+//
+//
 
 GridBase* GridBase::create(const Size& gridSize)
 {
